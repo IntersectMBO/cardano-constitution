@@ -16,4 +16,4 @@ For draft Constitution documents please see [IntersectMBO/draft-constitution](ht
 
 - [Converted to markdown (readable)](./cardano-constition-1/cardano-constitution-1.txt.md)
 - [Raw document](./cardano-constition-1/cardano-constitution-1.txt)
-- [Compiled guardrails script](./cardano-constition-1/guardrails-script.plutus)
+- [Compiled guardrails script](./cardano-constitution-1/guardrails-script.plutus)
