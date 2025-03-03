@@ -8,12 +8,12 @@ For draft Constitution documents please see [IntersectMBO/draft-constitution](ht
 
 ### [Interim Constitution](./cardano-constitution-1/README.md)
 
-- [Converted to markdown (readable)](./cardano-constition-0/cardano-constitution-0.txt.md)
-- [Raw document](./cardano-constition-0/cardano-constitution-0.txt)
-- [Compiled guardrails script](./cardano-constition-0/guardrails-script.plutus)
+- [Converted to markdown (readable)](./cardano-constitution-0/cardano-constitution-0.txt.md)
+- [Raw document](./cardano-constitution-0/cardano-constitution-0.txt)
+- [Compiled guardrails script](./cardano-constitution-0/guardrails-script.plutus)
 
 ### [Cardano Constitution 1](./cardano-constitution-1/README.md)
 
-- [Converted to markdown (readable)](./cardano-constition-1/cardano-constitution-1.txt.md)
-- [Raw document](./cardano-constition-1/cardano-constitution-1.txt)
+- [Converted to markdown (readable)](./cardano-constitution-1/cardano-constitution-1.txt.md)
+- [Raw document](./cardano-constitution-1/cardano-constitution-1.txt)
 - [Compiled guardrails script](./cardano-constitution-1/guardrails-script.plutus)
