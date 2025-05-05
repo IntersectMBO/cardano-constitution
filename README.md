@@ -18,4 +18,5 @@ This repository holds copies of the Cardano Ecosystem Constitution, its iteratio
 - [Compiled guardrails script](./cardano-constitution-0/guardrails-script.plutus)
 
 ### Other
+
 For draft Constitution documents please see [IntersectMBO/draft-constitution](https://github.com/IntersectMBO/draft-constitution).
