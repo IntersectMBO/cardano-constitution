@@ -8,6 +8,14 @@ This constitution reused the existing guardrails script which was included as pa
 
 This constitution document was drafted by the Civics Committee in collaboration with the Cardano community, across many workshops, reaching approval for submission via the Constitutional Convention.
 
+### Supporting Documents
+
+To accompany the first community ratified Constitution a key supporting document was authored.
+
+- [Cardano Blockchain Ecosystem Constitution Definitions (PDF)](./definitions.pdf)
+
+Hosted on IPFS under the CID: `bafkreiewp5bgrdiesq6ft3qypykgcjhvfgpp4s5o4yrjrvko4wuhi4iecu`
+
 ## On-chain details
 
 - Constitution URI: <ipfs://bafkreiazhhawe7sjwuthcfgl3mmv2swec7sukvclu3oli7qdyz4uhhuvmy>
