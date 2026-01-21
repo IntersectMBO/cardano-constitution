@@ -26,9 +26,9 @@ Hosted on IPFS under the CID: `bafkreiewp5bgrdiesq6ft3qypykgcjhvfgpp4s5o4yrjrvko
 
 ## Copies of Files
 
-- [Raw document file](./cardano-constitution-0.txt)
+- [Raw document file](./cardano-constitution-1.txt)
 
-- [Document converted to markdown (best for reading)](./cardano-constitution-0.txt.md)
+- [Document converted to markdown (best for reading)](./cardano-constitution-1.txt.md)
 
 #### Hosted Copies
 
